@@ -31,6 +31,5 @@
     "markdown-it": "^13.0.2",
     "pdf-merger-js": "^4.3.0",
     "puppeteer": "^21.4.1"
-  },
-  "packageManager": "yarn@4.1.1"
+  }
 }
